@@ -116,7 +116,7 @@ namespace FIN
                 using (SaveFileDialog saveDialog = new SaveFileDialog())
                 {
                     saveDialog.Filter = "Text Files (*.txt)|*.txt";
-                    saveDialog.FileName = folderName + "Items.txt";
+                    saveDialog.FileName = folderName + " - Items.txt";
 
                     if (saveDialog.ShowDialog() == DialogResult.OK)
                     {
