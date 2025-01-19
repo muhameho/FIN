@@ -1,4 +1,4 @@
-# FIN (Folder Item Names) 📂✨
+# FIN (Folder Items Names) 📂✨
 FIN is a simple and efficient Windows Forms application that allows users to easily browse a folder, view its items (file and folder names), and export that list to a text file. Perfect for users who need to quickly gather and save folder contents.
 
 # Features 🚀
