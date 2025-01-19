@@ -2,8 +2,8 @@
 FIN is a simple and efficient Windows Forms application that allows users to easily browse a folder, view its items (file and folder names), and export that list to a text file. Perfect for users who need to quickly gather and save folder contents.
 
 # Features 🚀
-Get Items in the Folder: View a list of all files and subdirectories (folder item names) in a selected folder.
-Export the List: Save the folder item names to a .txt file for easy sharing or documentation.
+- Get Items in the Folder: View a list of all files and subdirectories (folder item names) in a selected folder.
+- Export the List: Save the folder item names to a .txt file for easy sharing or documentation.
 
 # Usage 💡
 1. Get Items in the Folder
